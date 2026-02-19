@@ -257,7 +257,7 @@ class App:
         self.cargar_tabla()
 
     # ======================
-    # FUNCIONES PRINCIPALES
+    # FUNCIONES PRINCIPALES. 
     # ======================
 
     def parse_monto(self, texto):
