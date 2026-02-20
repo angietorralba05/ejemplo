@@ -182,11 +182,11 @@ class App:
         frame_totales.pack(fill="x")
 
         self.lbl_ingresos = tb.Label(frame_totales, font=self.FONT_BOLD,
-                                     foreground="#2563EB")
+                                     foreground="#FC034E")
         self.lbl_ingresos.pack(side="left", padx=10)
 
         self.lbl_gastos = tb.Label(frame_totales, font=self.FONT_BOLD,
-                                   foreground="#DC2626")
+                                   foreground="#4D08EE")
         self.lbl_gastos.pack(side="left", padx=10)
 
         self.lbl_saldo = tb.Label(frame_totales, font=self.FONT_BOLD)
